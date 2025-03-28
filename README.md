@@ -2,6 +2,6 @@
 
 Study on Residual Lifetime
 
-sim_v1.2.6.R : code for comparing two methods(qris and non_smooth_est)
+sim_v1.2.9.2.R : code for simulation
 
-sim_v1.2.7.R : code for data generation
+gen_data_v3.R : code for data generation
