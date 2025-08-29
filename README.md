@@ -7,6 +7,8 @@ Study on Residual Lifetime
 ##### sim_v2.7: data generation code for simulation setting (scenario 1)
 ##### sim_v2.7.1: data generation code for simulation setting (scenario 2)
 ##### sim_v2.7.2: data generation code for simulation setting (scenario 8)
+
+############################################################################### old versions (below)
 ##### sim_v2.6.R : code for data generation and coefficient estimation(including results from qris function) 
 ##### sim_v2.1.R : code for data generation and qris fitting 
 
