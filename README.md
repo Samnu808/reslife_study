@@ -4,7 +4,7 @@ Study on Residual Lifetime
 
 ### Yu et al. (2025)
 ##### sim_v2.10_ing2.R : code for coefficient estimation and variance estimation PMB (comparing results with qris.smooth) -- the latest file!
-##### sim_v2.7_rev.R: data generation code for simulation setting (scenario 1)
+##### gen_data(v2.7_scenario1,rev).R: data generation code for simulation setting (scenario 1) -- changed!
 ##### sim_v2.7.1.R: data generation code for simulation setting (scenario 2)
 ##### sim_v2.7.2.R: data generation code for simulation setting (scenario 8)
 
